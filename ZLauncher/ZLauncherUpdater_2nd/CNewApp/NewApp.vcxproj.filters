@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{c2850a90-5c2d-48fc-9a08-082533c3d205}</UniqueIdentifier>
+      <Extensions>cpp;c;h</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{7a01d302-5e7b-4993-b44b-120d2d0577d2}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Icon Files">
+      <UniqueIdentifier>{1f1e9e9b-c36b-45e7-98a7-b6f83bb80e15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CDDB">
+      <UniqueIdentifier>{12878c2f-a8b9-46b3-8d77-3d743dca4adc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NewApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewAppDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDDB.cpp">
+      <Filter>CDDB</Filter>
+    </ClCompile>
+    <ClCompile Include="CDDBButton.cpp">
+      <Filter>CDDB</Filter>
+    </ClCompile>
+    <ClCompile Include="CDDBDialog.cpp">
+      <Filter>CDDB</Filter>
+    </ClCompile>
+    <ClCompile Include="CSound.cpp">
+      <Filter>CDDB</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NewApp.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NewAppDlg.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDDB.h">
+      <Filter>CDDB</Filter>
+    </ClInclude>
+    <ClInclude Include="CDDBButton.h">
+      <Filter>CDDB</Filter>
+    </ClInclude>
+    <ClInclude Include="CDDBDialog.h">
+      <Filter>CDDB</Filter>
+    </ClInclude>
+    <ClInclude Include="CSound.h">
+      <Filter>CDDB</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\button.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\skin_maindlg.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icon_mainframe.ico">
+      <Filter>Resource Files\Icon Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="NewApp.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

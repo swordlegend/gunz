@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Path Finder">
+      <UniqueIdentifier>{2a6f345a-1da3-44a8-a8b0-fcb41ab44bf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Etc">
+      <UniqueIdentifier>{cc8f8ecd-42a0-4a28-83f0-41adca1d45c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vehicle Model">
+      <UniqueIdentifier>{40801b38-89ad-4874-96d9-7673f0eb1420}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\MAStar.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MCollisionMapGenerator.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MFreeMapModel.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MGridMapModel.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MGridPartitionModel.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MNonGridMapModel.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MPolygonMapModel.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MRayCastingDriver.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MRayCastingDriver2.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MSteeringDriver.cpp">
+      <Filter>Path Finder</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MUtil.cpp">
+      <Filter>Etc</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MFormation.cpp">
+      <Filter>Vehicle Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MPathTracer.cpp">
+      <Filter>Vehicle Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MSimpleVehicle.cpp">
+      <Filter>Vehicle Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MSimpleVehicle2.cpp">
+      <Filter>Vehicle Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MSimpleVehicle3.cpp">
+      <Filter>Vehicle Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MSimpleVehicle4.cpp">
+      <Filter>Vehicle Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\MVehicle.cpp">
+      <Filter>Vehicle Model</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\MAStar.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MCollisionMapGenerator.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MFreeMapModel.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MGridMapModel.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MGridPartitionModel.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MNonGridMapModel.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MPolygonMapModel.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MRayCastingDriver.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MRayCastingDriver2.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MSteeringDriver.h">
+      <Filter>Path Finder</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MUtil.h">
+      <Filter>Etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MFormation.h">
+      <Filter>Vehicle Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MPathTracer.h">
+      <Filter>Vehicle Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MSimpleVehicle.h">
+      <Filter>Vehicle Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MSimpleVehicle2.h">
+      <Filter>Vehicle Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MSimpleVehicle3.h">
+      <Filter>Vehicle Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MSimpleVehicle4.h">
+      <Filter>Vehicle Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\MVehicle.h">
+      <Filter>Vehicle Model</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

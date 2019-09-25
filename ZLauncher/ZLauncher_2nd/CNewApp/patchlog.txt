@@ -1,0 +1,204 @@
+Log start : Thu Sep 19 16:03:18 2019
+
+Current Directory : C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp
+16:03:18:051   [APP] OS version :  (Build 9200)
+16:03:18:066   [APP] Window created successfully.
+16:03:20:250   [ZUpdate] Create.
+16:03:20:256   [ZFileTransfer] Create.
+16:03:20:261   [ZFileTransfer] Create successfully complete.
+16:03:20:266   [ZFileTransfer] Open connection.
+16:03:20:271   [ZFileTransfer] Open connection successfully complete.
+16:03:20:275   [ZFileTransfer] Change directory.
+16:03:20:279   [ZFileTransfer] Change directory successfully complete.
+16:03:20:284   [ZUpdate] Create successfully compete.
+16:03:20:289   [APP] Download patch info file
+16:03:20:294   [ZUpdate] Start update.
+16:03:20:327   [ZFileTransfer] Download file : ./patch.xml  to  ./patch.xml
+16:03:20:520   [ZFileTransfer] Download successfully complete.
+16:03:20:534   [ZUpdate] Get update info.
+16:03:20:562   [ZUpdate] Get update info successfully complete.
+16:03:20:573   [ZUpdate] Check valid from patch list.
+16:03:20:585   [ZUpdatePatchNode] Needs to update : ./bdcap32.dll (not exist)
+16:03:20:603   [ZUpdatePatchNode] Needs to update : ./bdcore32.dll (not exist)
+16:03:20:619   [ZUpdatePatchNode] Needs to update : ./dbghelp.dll (not exist)
+16:03:20:632   [ZUpdatePatchNode] Needs to update : ./fmod.dll (not exist)
+16:03:20:652   [ZUpdatePatchNode] Needs to update : ./gdiplus.dll (not exist)
+16:03:20:666   [ZUpdatePatchNode] Needs to update : ./HanAuthForClient.dll (not exist)
+16:03:20:674   [ZUpdatePatchNode] Needs to update : ./HanPollForClient.dll (not exist)
+16:03:20:681   [ZUpdatePatchNode] Needs to update : ./HanReportForClient.dll (not exist)
+16:03:20:689   [ZUpdatePatchNode] Needs to update : ./model.mrs (not exist)
+16:03:20:695   [ZUpdatePatchNode] Needs to update : ./msvcp71.dll (not exist)
+16:03:20:700   [ZUpdatePatchNode] Needs to update : ./msvcr71.dll (not exist)
+16:03:20:707   [ZUpdatePatchNode] Needs to update : ./README.md (not exist)
+16:03:20:714   [ZUpdatePatchNode] Needs to update : ./sfx.mrs (not exist)
+16:03:20:720   [ZUpdatePatchNode] Needs to update : ./system.mrs (not exist)
+16:03:20:727   [ZUpdatePatchNode] Needs to update : ./theduel.exe (not exist)
+16:03:20:733   [ZUpdatePatchNode] Needs to update : ./vcomp90.dll (not exist)
+16:03:20:739   [ZUpdatePatchNode] Needs to update : ./Sound/Effect.mrs (not exist)
+16:03:20:749   [ZUpdatePatchNode] Needs to update : ./Sound/Effect/fx2.mrs (not exist)
+16:03:20:756   [ZUpdatePatchNode] Needs to update : ./Sound/Effect/nar.mrs (not exist)
+16:03:20:762   [ZUpdatePatchNode] Needs to update : ./Sound/Effect/quest/goblin.mrs (not exist)
+16:03:20:769   [ZUpdatePatchNode] Needs to update : ./Sound/Effect/quest/golem.mrs (not exist)
+16:03:20:778   [ZUpdatePatchNode] Needs to update : ./Sound/Effect/quest/lizard.mrs (not exist)
+16:03:20:785   [ZUpdatePatchNode] Needs to update : ./Sound/Effect/quest/Palmpoa.mrs (not exist)
+16:03:20:792   [ZUpdatePatchNode] Needs to update : ./Sound/Effect/quest/skeleton.mrs (not exist)
+16:03:20:799   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/El-tracaz.ogg (not exist)
+16:03:20:808   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/Fin.ogg (not exist)
+16:03:20:817   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/HardBgm(D).ogg (not exist)
+16:03:20:828   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/HardBgm3 Vanessa Retake(D).ogg (not exist)
+16:03:20:835   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/HardCore(D).ogg (not exist)
+16:03:20:846   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/HardTech(D).ogg (not exist)
+16:03:20:859   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/Industrial technolism.ogg (not exist)
+16:03:20:868   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/Intro Retake2(D-R).ogg (not exist)
+16:03:20:875   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/Ryswick style.ogg (not exist)
+16:03:20:884   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/Theme Rock(D).ogg (not exist)
+16:03:20:898   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/TRANCE mission_tmix.ogg (not exist)
+16:03:20:909   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/Vague words.ogg (not exist)
+16:03:20:916   [ZUpdatePatchNode] Needs to update : ./Sound/bgm/X-Fighter.ogg (not exist)
+16:03:20:932   [ZUpdatePatchNode] Needs to update : ./Shader/skin.vso (not exist)
+16:03:20:946   [ZUpdatePatchNode] Needs to update : ./Shader/skin1.vso (not exist)
+16:03:20:954   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Dungeon_cavern1.mrs (not exist)
+16:03:20:961   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Dungeon_cavern2.mrs (not exist)
+16:03:20:969   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Dungeon_cavern3.mrs (not exist)
+16:03:20:982   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Dungeon_nest1.mrs (not exist)
+16:03:21:018   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Dungeon_nest2.mrs (not exist)
+16:03:21:027   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Dungeon_nest3.mrs (not exist)
+16:03:21:045   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Dungeon_passage1.mrs (not exist)
+16:03:21:067   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Dungeon_passage2.mrs (not exist)
+16:03:21:081   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Dungeon_passage3.mrs (not exist)
+16:03:21:102   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Mansion_hall1.mrs (not exist)
+16:03:21:116   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Mansion_hall2.mrs (not exist)
+16:03:21:131   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Mansion_hall3.mrs (not exist)
+16:03:21:141   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Mansion_passage1.mrs (not exist)
+16:03:21:149   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Mansion_passage2.mrs (not exist)
+16:03:21:158   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Mansion_passage3.mrs (not exist)
+16:03:21:166   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Mansion_room1.mrs (not exist)
+16:03:21:175   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Mansion_room2.mrs (not exist)
+16:03:21:182   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Mansion_room3.mrs (not exist)
+16:03:21:193   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Prison_drainage1.mrs (not exist)
+16:03:21:200   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Prison_drainage2.mrs (not exist)
+16:03:21:210   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Prison_hall1.mrs (not exist)
+16:03:21:217   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Prison_hall2.mrs (not exist)
+16:03:21:227   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Prison_passage1.mrs (not exist)
+16:03:21:236   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Prison_passage2.mrs (not exist)
+16:03:21:247   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Prison_passage3.mrs (not exist)
+16:03:21:259   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Prison_prison.mrs (not exist)
+16:03:21:267   [ZUpdatePatchNode] Needs to update : ./Quest/Maps/Prison_shower_room.mrs (not exist)
+16:03:21:276   [ZUpdatePatchNode] Needs to update : ./Model/man.mrs (not exist)
+16:03:21:283   [ZUpdatePatchNode] Needs to update : ./Model/woman.mrs (not exist)
+16:03:21:292   [ZUpdatePatchNode] Needs to update : ./Model/NPC/assassin.mrs (not exist)
+16:03:21:304   [ZUpdatePatchNode] Needs to update : ./Model/NPC/charger.mrs (not exist)
+16:03:21:334   [ZUpdatePatchNode] Needs to update : ./Model/NPC/chaser.mrs (not exist)
+16:03:21:348   [ZUpdatePatchNode] Needs to update : ./Model/NPC/disposer.mrs (not exist)
+16:03:21:361   [ZUpdatePatchNode] Needs to update : ./Model/NPC/general.mrs (not exist)
+16:03:21:373   [ZUpdatePatchNode] Needs to update : ./Model/NPC/goblin.mrs (not exist)
+16:03:21:381   [ZUpdatePatchNode] Needs to update : ./Model/NPC/golem.mrs (not exist)
+16:03:21:391   [ZUpdatePatchNode] Needs to update : ./Model/NPC/hunter.mrs (not exist)
+16:03:21:412   [ZUpdatePatchNode] Needs to update : ./Model/NPC/knifeman.mrs (not exist)
+16:03:21:425   [ZUpdatePatchNode] Needs to update : ./Model/NPC/Kobolt.mrs (not exist)
+16:03:21:433   [ZUpdatePatchNode] Needs to update : ./Model/NPC/Palmpoa.mrs (not exist)
+16:03:21:442   [ZUpdatePatchNode] Needs to update : ./Model/NPC/psychic.mrs (not exist)
+16:03:21:450   [ZUpdatePatchNode] Needs to update : ./Model/NPC/rifleman.mrs (not exist)
+16:03:21:462   [ZUpdatePatchNode] Needs to update : ./Model/NPC/robot.mrs (not exist)
+16:03:21:470   [ZUpdatePatchNode] Needs to update : ./Model/NPC/shooter.mrs (not exist)
+16:03:21:485   [ZUpdatePatchNode] Needs to update : ./Model/NPC/Skeleton.mrs (not exist)
+16:03:21:500   [ZUpdatePatchNode] Needs to update : ./Model/NPC/tower.mrs (not exist)
+16:03:21:509   [ZUpdatePatchNode] Needs to update : ./Maps/Battle Arena.mrs (not exist)
+16:03:21:516   [ZUpdatePatchNode] Needs to update : ./Maps/Castle.mrs (not exist)
+16:03:21:524   [ZUpdatePatchNode] Needs to update : ./Maps/Catacomb.mrs (not exist)
+16:03:21:530   [ZUpdatePatchNode] Needs to update : ./Maps/Citadel.mrs (not exist)
+16:03:21:537   [ZUpdatePatchNode] Needs to update : ./Maps/Dungeon.mrs (not exist)
+16:03:21:545   [ZUpdatePatchNode] Needs to update : ./Maps/Factory.mrs (not exist)
+16:03:21:573   [ZUpdatePatchNode] Needs to update : ./Maps/Garden.mrs (not exist)
+16:03:21:587   [ZUpdatePatchNode] Needs to update : ./Maps/Hall.mrs (not exist)
+16:03:21:596   [ZUpdatePatchNode] Needs to update : ./Maps/Halloween Town.mrs (not exist)
+16:03:21:612   [ZUpdatePatchNode] Needs to update : ./Maps/High_Haven.mrs (not exist)
+16:03:21:631   [ZUpdatePatchNode] Needs to update : ./Maps/Island.mrs (not exist)
+16:03:21:643   [ZUpdatePatchNode] Needs to update : ./Maps/Jail.mrs (not exist)
+16:03:21:653   [ZUpdatePatchNode] Needs to update : ./Maps/Lost Shrine.mrs (not exist)
+16:03:21:660   [ZUpdatePatchNode] Needs to update : ./Maps/mansion.mrs (not exist)
+16:03:21:666   [ZUpdatePatchNode] Needs to update : ./Maps/Port.mrs (not exist)
+16:03:21:677   [ZUpdatePatchNode] Needs to update : ./Maps/prison II.mrs (not exist)
+16:03:21:684   [ZUpdatePatchNode] Needs to update : ./Maps/prison.mrs (not exist)
+16:03:21:691   [ZUpdatePatchNode] Needs to update : ./Maps/Ruin.mrs (not exist)
+16:03:21:698   [ZUpdatePatchNode] Needs to update : ./Maps/Shower Room.mrs (not exist)
+16:03:21:707   [ZUpdatePatchNode] Needs to update : ./Maps/Snow_Town.mrs (not exist)
+16:03:21:714   [ZUpdatePatchNode] Needs to update : ./Maps/Stairway.mrs (not exist)
+16:03:21:721   [ZUpdatePatchNode] Needs to update : ./Maps/station.mrs (not exist)
+16:03:21:728   [ZUpdatePatchNode] Needs to update : ./Maps/Town.mrs (not exist)
+16:03:21:736   [ZUpdatePatchNode] Needs to update : ./Maps/WeaponShop.mrs (not exist)
+16:03:21:762   [ZUpdatePatchNode] Needs to update : ./Interface/default.mrs (not exist)
+16:03:21:785   [ZUpdatePatchNode] Needs to update : ./Interface/loadable.mrs (not exist)
+16:03:21:802   [ZUpdatePatchNode] Needs to update : ./Interface/Login.mrs (not exist)
+16:03:21:817   [ZUpdatePatchNode] Needs to update : ./Interface/MonsterIllust.mrs (not exist)
+16:03:21:825   [ZUpdatePatchNode] Needs to update : ./CUSTOM/CROSSHAIR/crosshair.png (not exist)
+16:03:21:837   [ZUpdatePatchNode] Needs to update : ./CUSTOM/CROSSHAIR/crosshair_pick.png (not exist)
+16:03:21:849   [ZUpdatePatchNode] Needs to update : ./CUSTOM/CROSSHAIR/Thumbs.db (not exist)
+16:03:21:858   [ZUpdate] Check valid from patch list successfully complete.
+16:03:21:870   [ZUpdate] + Total patch file count : 116
+16:03:21:880   [ZUpdate] + Total patch file size : 342792239 bytes
+16:03:21:888   [APP] Exist patch file(s)
+16:03:21:919   [APP] Start file updating...
+16:03:21:929   [ZUpdate] Patch files.
+16:03:21:936   [ZFileTransfer] Download file : ./bdcap32.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\bdcap32.dll_
+16:03:22:129   [ZFileTransfer] Download successfully complete.
+16:03:22:309   [ZUpdate] Successfully download '.\PATCH\bdcap32.dll_'
+16:03:22:317   [ZFileTransfer] Download file : ./bdcore32.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\bdcore32.dll_
+16:03:23:306   [ZFileTransfer] Download successfully complete.
+16:03:23:345   [ZUpdate] Successfully download '.\PATCH\bdcore32.dll_'
+16:03:23:350   [ZFileTransfer] Download file : ./dbghelp.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\dbghelp.dll_
+16:03:23:560   [ZFileTransfer] Download successfully complete.
+16:03:23:607   [ZUpdate] Successfully download '.\PATCH\dbghelp.dll_'
+16:03:23:615   [ZFileTransfer] Download file : ./fmod.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\fmod.dll_
+16:03:23:719   [ZFileTransfer] Download successfully complete.
+16:03:23:780   [ZUpdate] Successfully download '.\PATCH\fmod.dll_'
+16:03:23:785   [ZFileTransfer] Download file : ./gdiplus.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\gdiplus.dll_
+16:03:24:175   [ZFileTransfer] Download successfully complete.
+16:03:24:208   [ZUpdate] Successfully download '.\PATCH\gdiplus.dll_'
+16:03:24:222   [ZFileTransfer] Download file : ./HanAuthForClient.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\HanAuthForClient.dll_
+16:03:24:363   [ZFileTransfer] Download successfully complete.
+16:03:24:506   [ZUpdate] Successfully download '.\PATCH\HanAuthForClient.dll_'
+16:03:24:551   [ZFileTransfer] Download file : ./HanPollForClient.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\HanPollForClient.dll_
+16:03:24:690   [ZFileTransfer] Download successfully complete.
+16:03:24:776   [ZUpdate] Successfully download '.\PATCH\HanPollForClient.dll_'
+16:03:24:798   [ZFileTransfer] Download file : ./HanReportForClient.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\HanReportForClient.dll_
+16:03:24:948   [ZFileTransfer] Download successfully complete.
+16:03:25:006   [ZUpdate] Successfully download '.\PATCH\HanReportForClient.dll_'
+16:03:25:012   [ZFileTransfer] Download file : ./model.mrs  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\model.mrs_
+16:03:26:422   [ZFileTransfer] Download successfully complete.
+16:03:26:452   [ZUpdate] Successfully download '.\PATCH\model.mrs_'
+16:03:26:457   [ZFileTransfer] Download file : ./msvcp71.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\msvcp71.dll_
+16:03:26:584   [ZFileTransfer] Download successfully complete.
+16:03:26:609   [ZUpdate] Successfully download '.\PATCH\msvcp71.dll_'
+16:03:26:615   [ZFileTransfer] Download file : ./msvcr71.dll  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\msvcr71.dll_
+16:03:26:722   [ZFileTransfer] Download successfully complete.
+16:03:26:745   [ZUpdate] Successfully download '.\PATCH\msvcr71.dll_'
+16:03:26:749   [ZFileTransfer] Download file : ./README.md  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\README.md_
+16:03:26:774   [ZFileTransfer] ERROR : File not found.
+16:03:26:779   [ZFileTransfer] ERROR : Failed download : ./README.md
+16:03:26:784   [ZUpdate] WARNNING : Retry patch file : .\PATCH\README.md_ , 1 retry
+16:03:26:793   [ZFileTransfer] Download file : ./README.md  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\README.md_
+16:03:26:879   [ZFileTransfer] ERROR : File not found.
+16:03:26:886   [ZFileTransfer] ERROR : Failed download : ./README.md
+16:03:26:893   [ZUpdate] ERROR : Fail to download file '.\PATCH\README.md_'
+16:03:26:901   [ZFileTransfer] Download file : ./sfx.mrs  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\sfx.mrs_
+16:03:27:850   [ZFileTransfer] Download successfully complete.
+16:03:27:860   [ZUpdate] Successfully download '.\PATCH\sfx.mrs_'
+16:03:27:867   [ZFileTransfer] Download file : ./system.mrs  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\system.mrs_
+16:03:27:957   [ZFileTransfer] Download successfully complete.
+16:03:27:973   [ZUpdate] Successfully download '.\PATCH\system.mrs_'
+16:03:27:979   [ZFileTransfer] Download file : ./theduel.exe  to  C:\Users\Allan\Documents\Projetos\GunzPro\gunz\ZLauncher_2nd\CNewApp\PATCH\theduel.exe_
+16:03:28:185   [APP] Update canceled...
+16:03:28:190   [ZUpdate] Stop update.
+16:03:28:200   [ZUpdate] Stop update successfully complete.
+16:03:28:203   [ZFileTransfer] Stop download.
+16:03:28:280   [ZUpdate] WARNNING : Retry patch file : .\PATCH\theduel.exe_ , 1 retry
+16:03:28:287   [ZUpdate] Patch files STOP!!!
+16:03:28:293   [ZUpdate] ERROR : Start update FAILED!!!
+16:03:28:297   [APP] ERROR - Update fail
+16:03:28:345   [ZUpdate] Destroy.
+16:03:28:354   [ZFileTransfer] Destroy.
+16:03:28:360   [ZFileTransfer] Close connection.
+16:03:28:367   [ZFileTransfer] Close connection successfully complete.
+16:03:28:373   [ZFileTransfer] Destroy successfly complete.
+16:03:28:379   [ZUpdate] Destroy successfully complete.
